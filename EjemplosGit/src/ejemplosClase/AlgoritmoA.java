@@ -24,6 +24,7 @@ public class AlgoritmoA {
 	 * y vamos viendo como se comporta la funci�n y que nos devuelve en cada caso.
 	 * 
 	 * */
+	
 	public static int algoritmoA(int x, int y) { 
 		int c = 0;if(x != 0 && y != 0 && y != 1) {do {
 	int z = x % y;
